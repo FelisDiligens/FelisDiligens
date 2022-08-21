@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a self-taught developer from Germany, who probably drinks too much coffee ☕😅.  
-You're probably here because of [Fallout 76 Quick Configuration](https://github.com/FelisDiligens/Fallout76-QuickConfiguration), which is a tool I wrote as a hobby.
+You're likely here because of [Fallout 76 Quick Configuration](https://github.com/FelisDiligens/Fallout76-QuickConfiguration), which is a tool I wrote as a hobby.
 
 I mostly worked with JavaScript ☕📜, C# 🎵, and Python 🐍.
 
