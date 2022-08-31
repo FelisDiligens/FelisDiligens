@@ -3,7 +3,9 @@
 I'm a self-taught developer from Germany, who probably drinks too much coffee ☕😅.  
 You're likely here because of [Fallout 76 Quick Configuration](https://github.com/FelisDiligens/Fallout76-QuickConfiguration), which is a tool I wrote as a hobby.
 
-I mostly worked with JavaScript ☕📜, C# 🎵, and Python 🐍.
+I mostly worked with C# 🎵, Python 🐍, and JavaScript ☕📜.
+
+![csharp, python, html, css, js](https://skillicons.dev/icons?i=cs,dotnet,python,html,css,js)
 
 <!--
 **FelisDiligens/FelisDiligens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
