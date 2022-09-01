@@ -8,6 +8,12 @@ I mostly worked with C# 🎵, Python 🐍, and JavaScript ☕📜.
 ![csharp, python, html, css, js](https://skillicons.dev/icons?i=cs,dotnet,python,html,css,js)
 
 <!--
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FelisDiligens&show_icons=true&theme=radical&hide=contribs,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelisDiligens&hide=rtf&langs_count=10&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<!--
 **FelisDiligens/FelisDiligens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
