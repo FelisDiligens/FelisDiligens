@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<!--![](https://komarev.com/ghpvc/?username=FelisDiligens)-->
+
 I'm a self-taught developer from Germany, who probably drinks too much coffee ☕😅.  
 You're likely here because of [Fallout 76 Quick Configuration](https://github.com/FelisDiligens/Fallout76-QuickConfiguration), which is a tool I wrote as a hobby.
 
