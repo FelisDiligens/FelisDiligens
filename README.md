@@ -5,7 +5,7 @@ You're likely here because of [Fallout 76 Quick Configuration](https://github.co
 
 I mostly worked with C# 🎵, Python 🐍, and JavaScript ☕📜.
 
-![csharp, python, html, css, js](https://skillicons.dev/icons?i=cs,dotnet,python,html,css,js)
+[![csharp, python, html, css, js](https://skillicons.dev/icons?i=cs,dotnet,python,html,css,js)](https://skillicons.dev)
 
 #### My GitHub Stats
 
