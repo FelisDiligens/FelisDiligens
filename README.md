@@ -7,11 +7,14 @@ I mostly worked with C# 🎵, Python 🐍, and JavaScript ☕📜.
 
 ![csharp, python, html, css, js](https://skillicons.dev/icons?i=cs,dotnet,python,html,css,js)
 
-<!--
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FelisDiligens&show_icons=true&theme=radical&hide=contribs,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+#### My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelisDiligens&hide=rtf&langs_count=10&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
--->
+<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FelisDiligens&show_icons=true&theme=tokyonight&hide=contribs" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelisDiligens&hide=Rich%20Text%20Format,Inno%20Setup,Shell,Batchfile&langs_count=10&layout=compact&show_icons=true&theme=tokyonight" />
+</a>
 
 <!--
 **FelisDiligens/FelisDiligens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
