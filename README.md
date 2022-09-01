@@ -10,7 +10,7 @@ I mostly worked with C# 🎵, Python 🐍, and JavaScript ☕📜.
 #### My GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FelisDiligens&show_icons=true&theme=tokyonight&hide=contribs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FelisDiligens&show_icons=true&theme=tokyonight&hide=contribs,issues" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelisDiligens&hide=Rich%20Text%20Format,Inno%20Setup,Shell,Batchfile&langs_count=10&layout=compact&show_icons=true&theme=tokyonight" />
