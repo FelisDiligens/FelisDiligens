@@ -14,7 +14,7 @@ You're likely here because of [☢ Fallout 76 Quick Configuration](https://githu
 
 I mostly worked with C# 🎵, Python 🐍, and JavaScript ☕📜.
 
-[![csharp, python, html, css, js](https://skillicons.dev/icons?i=cs,dotnet,python,html,css,js)](https://skillicons.dev)
+[![csharp, python, html, css, typescript](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,python,flask,html,css,ts,js,vscode,md)](https://skillicons.dev)
 
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FelisDiligens&show_icons=true&theme=tokyonight&hide=contribs,issues" />
