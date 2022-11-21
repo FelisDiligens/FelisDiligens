@@ -5,7 +5,7 @@
 I'm a self-taught developer from Germany, who probably drinks too much coffee ☕😅.  
 You're likely here because of [☢ Fallout 76 Quick Configuration](https://github.com/FelisDiligens/Fallout76-QuickConfiguration#readme), which is a tool I wrote as a hobby.
 
-- 🔭 I’m currently working on: [Markdown table tools](https://github.com/FelisDiligens/md-table-tools)
+- 🔭 I’m currently working on: [Joplin Plugin: MultiMarkdown Table Tools](https://github.com/FelisDiligens/joplin-plugin-multimd-table-tools)
 - 📫 How to reach me: [felisdiligens@yahoo.com](mailto:felisdiligens@yahoo.com)
 - ⚡ I mostly worked with C# 🎵, Python 🐍, and JavaScript ☕📜.
 
