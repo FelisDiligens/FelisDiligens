@@ -20,8 +20,8 @@ You're likely here because of [☢ Fallout 76 Quick Configuration](https://githu
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FelisDiligens&show_icons=true&theme=tokyonight&hide=contribs,issues" />
 </a><br><br>
 <!--<a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelisDiligens&hide=Rich%20Text%20Format,Inno%20Setup,Shell,Batchfile&langs_count=10&layout=compact&show_icons=true&theme=tokyonight" />
-</a>-->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelisDiligens&hide=Ruby,Rich%20Text%20Format,Inno%20Setup,HTML,CSS,SCSS,Batchfile,Vim%20Script&langs_count=10&layout=compact&show_icons=true&theme=tokyonight" />
+</a><br><br>-->
 
 [![csharp, python, html, css, typescript](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,python,flask,html,css,ts,js,vscode,md&perline=5)](https://skillicons.dev)
 
