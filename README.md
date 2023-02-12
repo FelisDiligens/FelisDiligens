@@ -18,14 +18,35 @@ You're likely here because of [☢ Fallout 76 Quick Configuration](https://githu
 
 <hr>
 
+### My projects
+
+- [Fallout 76 Quick Configuration](/f76qc) - A tool that allows you to tweak *.ini settings and install mods. 
+- [The Elder Scrolls Name Generator](/tes-name-generator) - Ever wondered what to call your next Skyrim character?
+
+#### Forks
+
+- [Stacky](https://github.com/FelisDiligens/stacky) - Simple icon stacks solution for Windows. Updated and built for Windows 10 and 11.
+
+#### Joplin Plugins
+
+[Joplin](https://joplinapp.org/) is an open source note-taking app that can be extended by plugins such as this:
+
+- [Search & Replace](https://github.com/FelisDiligens/joplin-plugin-search-and-replace) - Adds a search and replace panel.
+- [MultiMarkdown Table Tools](https://github.com/FelisDiligens/joplin-plugin-multimd-table-tools#readme) - A collection of tools to make editing tables easier.
+- [CodeMirror options](https://github.com/FelisDiligens/joplin-plugin-cmoptions#readme) - Adds some CodeMirror options to Joplin's settings, such as line numbers and line wrapping. 
+
+<hr>
+
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FelisDiligens&show_icons=true&theme=tokyonight&hide=contribs,issues" />
-</a><br><br>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=FelisDiligens&show_icons=true&theme=tokyonight&hide=contribs,issues" />
+</a>
 <!--<a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelisDiligens&hide=Ruby,Rich%20Text%20Format,Inno%20Setup,HTML,CSS,SCSS,Batchfile,Vim%20Script&langs_count=10&layout=compact&show_icons=true&theme=tokyonight" />
 </a><br><br>-->
 
-[![csharp, python, html, css, typescript](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,python,flask,html,css,ts,js,vscode,md&perline=5)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img align="right" alt="csharp, python, html, css, typescript" src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,python,flask,html,css,ts,js,vscode,md&perline=5" />
+</a>
 
 <!--
 **FelisDiligens/FelisDiligens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
