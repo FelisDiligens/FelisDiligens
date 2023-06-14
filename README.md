@@ -6,6 +6,7 @@ You're likely here because of [☢ Fallout 76 Quick Configuration](https://githu
 - 📫 How to reach me: [felisdiligens@yahoo.com](mailto:felisdiligens@yahoo.com)
 - 🌱 I’m currently learning [React](https://reactjs.org/) and [Tauri](https://tauri.app/).
 - 😸 Check out my blog page: [felisdiligens.github.io](https://felisdiligens.github.io/) (under construction)
+- 📜 My gists: [gist.github.com/FelisDiligens](https://gist.github.com/FelisDiligens)
 
 [![](https://komarev.com/ghpvc/?username=FelisDiligens&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
@@ -25,12 +26,12 @@ You're likely here because of [☢ Fallout 76 Quick Configuration](https://githu
 
 #### Languages and Frameworks
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,html,css,js,ts,webpack,md&perline=6" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,html,css,js,ts,md,bash&perline=6" />
     <!-- flask, jquery, nodejs, react -->
 </a>
 
 #### Tools
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,bash,git&perline=6" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,vim&perline=6" />
     <!-- vim -->
 </a>
