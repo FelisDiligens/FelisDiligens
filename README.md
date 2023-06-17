@@ -26,12 +26,14 @@ You're likely here because of [☢ Fallout 76 Quick Configuration](https://githu
 
 #### Languages and Frameworks
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,html,css,js,ts,md,bash&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=python,bash,powershell" />
     <!-- flask, jquery, nodejs, react -->
 </a>
 
 #### Tools
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,vim&perline=6" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,vim" />
     <!-- vim -->
 </a>
