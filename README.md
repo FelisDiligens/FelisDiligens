@@ -1,13 +1,13 @@
 ### About me
 
 I'm a self-taught developer from Germany, who probably drinks too much coffee ☕😅.  
-You're likely here because of [☢ Fallout 76 Quick Configuration](https://github.com/FelisDiligens/Fallout76-QuickConfiguration#readme), which is a tool I wrote as a hobby.
 
 - 📫 How to reach me: [felisdiligens@yahoo.com](mailto:felisdiligens@yahoo.com)
-- 😸 Check out my blog page: [felisdiligens.github.io](https://felisdiligens.github.io/)
 - 📜 My gists: [gist.github.com/FelisDiligens](https://gist.github.com/FelisDiligens)
+<!--
+- 😸 Check out my blog page: [felisdiligens.github.io](https://felisdiligens.github.io/)
 - 🌱 I’m currently learning [React](https://reactjs.org/) and [Tauri](https://tauri.app/).
-
+-->
 [![](https://komarev.com/ghpvc/?username=FelisDiligens&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
 ![](https://img.shields.io/badge/-Find%20me%20on:-282828?style=for-the-badge)
