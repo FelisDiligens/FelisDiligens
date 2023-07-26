@@ -19,7 +19,7 @@ I'm a self-taught developer from Germany, who probably drinks too much coffee â˜
 ### GitHub stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelisDiligens&show_icons=true&theme=tokyonight&hide=contribs,issues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FelisDiligens&show_icons=true&theme=dark&icon_color=79C0FF&ring_color=79C0FF&border_color=30363D&bg_color=161B22&hide=contribs,issues" />
 </a>
 
 ### Skilled in
