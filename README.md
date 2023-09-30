@@ -28,6 +28,7 @@ I'm a self-taught developer from Germany, who probably drinks too much coffee â˜
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
     <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=java" />
     <img src="https://skillicons.dev/icons?i=python,bash,powershell" />
     <!-- flask, jquery, nodejs, react -->
 </a>
